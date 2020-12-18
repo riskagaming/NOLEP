@@ -60,9 +60,9 @@ PAKEK CARA YANG KE TIGA KALU GAK BERHASIL
 
 > apt update && apt upgrade
 
-> git clone https://github.com/A187ID/AR15BOT
+> git clone https://github.com/riskagaming/NOLEP
 
-> cd AR15BOT
+> cd NOLEP
 
 > npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i && npm i got && node index js
 
