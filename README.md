@@ -28,7 +28,7 @@ kalo lu belum punya apk termux, download di playstore
 > pkg install git
 > pkg install tesseract
 > pkg install unzip
-> git clone https://github.com/riskagaming/NOLEP/edit/main/README.md
+> git clone https://github.com/riskagaming/NOLEP
 > ls
 > Termux-setup-storage
 > ls
